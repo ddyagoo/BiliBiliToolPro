@@ -40,4 +40,4 @@ inputs:
           argument: UnfollowBatched
   environment:
     variables: # 根据自己的需要修改
-      Ray_BiliBiliCookies__1: 123 # cookie，必填
+      Ray_BiliBiliCookies__1: buvid3=1024428A-E8F8-63CF-540F-92700489D0FA37794infoc; _uuid=DBBA9A44-3C25-EB42-38105-21A718103CF51016655infoc; buvid4=7AF257D9-59E4-E809-37AA-1F5508985AB918177-022051011-CCxZKvV422YfABD5qTuwVg%3D%3D; buvid_fp=7228de6fb7b284dd3d145be6bd4d9398; i-wanna-go-back=-1; fingerprint=7228de6fb7b284dd3d145be6bd4d9398; DedeUserID=138796755; DedeUserID__ckMd5=d11ea92c4c4deee7; hit-dyn-v2=1; CURRENT_BLACKGAP=0; blackside_state=0; rpdid=|(J~R~|mY)k)0J'uYlkul~kuR; LIVE_BUVID=AUTO5116521636434545; nostalgia_conf=-1; b_ut=5; CURRENT_QUALITY=80; CURRENT_FNVAL=4048; SESSDATA=7e639672%2C1671345289%2Cf7688%2A61; bili_jct=faaab07bcfa62126bf16b072867f7d72; sid=7zflcyiu; PVID=1; bp_video_offset_138796755=674439586624045200 # cookie，必填
